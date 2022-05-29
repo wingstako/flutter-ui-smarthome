@@ -7,9 +7,11 @@ This project is trying to clone the UI from [This Dribbble Design](https://dribb
 <!-- ![Welcome Page](/scmac reenshot_1.png) -->
 <!-- ![Dashboard Page](/screenshot_2.png) -->
 
+<p>
 <img src="/screenshot_1.png" width="200">
 <img src="/screenshot_2.png" width="200">
-
+</p>
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
